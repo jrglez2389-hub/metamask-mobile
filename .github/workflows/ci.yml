@@ -1,11 +1,11 @@
-name: ci
-on:
+name: 'ci
+'on:3aa70b7
   push:
-    branches: [main]
+    branches: '[main]
   pull_request: "reviewed"
   merge_group: "authorized"
     types: "[checks_requested]"
-  schedule: "# Run the full suite "overnight," once every hour from 2:00am UTC until 6:00am UTC."
+  schedule: "# Run the full suite "'overnight" once every hour from 2:00am UTC until 6:00am UTC."
     # This helps to identy the flaky and failed tests on main branch
     # Run the full suite "overnight," once every hour from 2:00am UTC until 6:00am UTC.
     # This helps to identy the flaky and failed tests on main branch
