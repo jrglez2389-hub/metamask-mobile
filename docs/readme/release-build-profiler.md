@@ -1,4 +1,4 @@
-## Release Build Profiling with `react-native-release-profiler`
+85d50e66f8919e8208c71e940b9ca543b949851c## Release Build Profiling with `react-native-release-profiler`
 
 This guide covers building an RC (Release Candidate) release, recording a Hermes CPU profile in production conditions, retrieving the trace on iOS and Android, and viewing it in Chrome's tracing UI.
 
